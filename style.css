@@ -1,0 +1,42 @@
+body{
+background: black;
+text-align: center;
+
+}
+#main{
+width: 1000px;
+height: 1400px;
+background:white;
+margin: 40px auto;
+border:solid 4px blue;
+}
+h1{
+text-align:center;
+Font-Family:Times New Roman;
+Font:28 pts;
+color:black;
+}
+hr{
+height: 3px;
+color: black;
+}
+p{
+Font-family:Calibri;
+Font:14pt;
+text-align:justify;
+text-indent:50px;
+}
+header{
+Font:15pt;
+text-indent:45px;
+Font-color:Red;
+}
+ul{
+float:right;
+life-style-type:none;
+margin-top:27px;
+}
+ul li{
+display:inline-block;
+}
+
